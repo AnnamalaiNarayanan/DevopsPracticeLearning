@@ -4,3 +4,6 @@ This is the file created to learn new devops
 Just updated
 
 just adding for commit conflict changes
+
+
+Line no 9 added
